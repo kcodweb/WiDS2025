@@ -24,7 +24,7 @@ Day 7: Submit a short notebook demonstrating reading a CSV using Pandas and comp
 
 Submission Link - [Google Form](https://forms.gle/94eL5hFe4u3zvGSd8) 
 
-## Week 2 - Data Collection & XML Parsing
+## Week 2 - Data Collection & XML/RSS Parsing
 
 To be updated
 
