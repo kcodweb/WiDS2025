@@ -11,7 +11,7 @@
 - Understanding XML tags - [BeautifulSoup Tutorial for Beginners](https://www.youtube.com/watch?v=XVv6mJpFOb0)
 
 **4:** Collecting stock price data using yfinance 
-- [yfinance Tutorial – Get Stock Data in Python](https://www.youtube.com/watch?v=YvJx2GUEK_c)
+- [yfinance Tutorial – Get Stock Data in Python](https://youtu.be/7wAQCwdvqqo?si=k6PiUtQYFnDsjXlk)
 
 **5:** Merging news data with stock price data
 - To be added
