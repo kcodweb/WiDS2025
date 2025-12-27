@@ -14,4 +14,4 @@
 - [yfinance Tutorial – Get Stock Data in Python](https://youtu.be/7wAQCwdvqqo?si=k6PiUtQYFnDsjXlk)
 
 **5:** Merging news data with stock price data
-- To be added
+- [Read](https://docs.google.com/document/d/1u1XvUcYAN_KBEJr6o9v92QmYjA-ME3ij/edit?usp=sharing&ouid=107692318458857695274&rtpof=true&sd=true)
