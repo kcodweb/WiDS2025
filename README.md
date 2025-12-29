@@ -14,6 +14,8 @@ An optional extension allows interested participants to create a simple Streamli
 
 ## [Week 2 – Data Collection & XML Parsing](Week_2/README.md)
 
+## [Midterm Submission](MidTerm/readme.md)
+
 ## Week 3 – Sentiment Analysis & Feature Engineering
 
 To be updated
