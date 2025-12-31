@@ -16,10 +16,7 @@ An optional extension allows interested participants to create a simple Streamli
 
 ## [Midterm Submission](MidTerm/readme.md)
 
-## Week 3 – Sentiment Analysis & Feature Engineering
-
-To be updated
+## [Week 3 – Sentiment Analysis & Feature Engineering](Week_3/README.md)
 
 ## Week 4 – Final Modeling & Evaluation
-
 To be updated
