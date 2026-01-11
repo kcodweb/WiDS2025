@@ -18,5 +18,4 @@ An optional extension allows interested participants to create a simple Streamli
 
 ## [Week 3 – Sentiment Analysis & Feature Engineering](Week_3/readme.md)
 
-## Week 4 – Final Modeling & Evaluation
-To be updated
+## [Week 4 – Final Modeling & Evaluation](Week_4/readme.md)
